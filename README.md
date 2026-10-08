@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-  <img src="assets/logo-light.svg" alt="Jakub Šalmík logo" width="27" height="45">
-</picture>
-
-# Jakub Šalmík
+# <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg"><img src="assets/logo-light.svg" alt="" width="18" height="30"></picture> Jakub Šalmík
 
 `> whoami`
 
