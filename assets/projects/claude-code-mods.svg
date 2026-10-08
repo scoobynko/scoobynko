@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 12"
+     width="66" height="36" shape-rendering="crispEdges" role="img" aria-label="Clawd typing on a tiny laptop">
+  <style>
+    .f { opacity: 0; animation: clawd-type 0.375s linear infinite; }
+    @keyframes clawd-type {
+      0%, 33.3333% { opacity: 1; }
+      33.3334%, 100% { opacity: 0; }
+    }
+    .f0 { animation-delay: 0.0000s; }
+    .f1 { animation-delay: -0.1250s; }
+    .f2 { animation-delay: -0.2500s; }
+    @media (prefers-reduced-motion: reduce) {
+      .f { animation: none; }
+      .f0 { opacity: 1; }
+    }
+  </style>
+  <g class="f f0">
+    <path fill="#d77757" d="M0 0h12v2h-12zM0 2h2v2h-2zM4 2h6v2h-6zM0 4h16v2h-16zM0 6h16v2h-16zM0 8h2v2h-2zM6 8h2v2h-2zM10 8h2v2h-2zM0 10h1v2h-1zM6 10h1v2h-1zM10 10h1v2h-1z"/>
+    <path fill="#000" d="M2 2h2v2h-2zM10 2h2v2h-2z"/>
+    <path fill="#898989" d="M21 2h1v2h-1zM20 4h1v2h-1zM19 6h1v2h-1zM13 8h6v2h-6z"/>
+  </g>
+  <g class="f f1">
+    <path fill="#d77757" d="M0 0h12v2h-12zM0 2h2v2h-2zM4 2h6v2h-6zM0 4h14v2h-14zM0 6h12v2h-12zM0 8h2v2h-2zM6 8h2v2h-2zM10 8h2v2h-2zM0 10h1v2h-1zM6 10h1v2h-1zM10 10h1v2h-1z"/>
+    <path fill="#000" d="M2 2h2v2h-2zM10 2h2v2h-2z"/>
+    <path fill="#898989" d="M21 4h1v2h-1zM20 6h1v2h-1zM19 8h1v2h-1zM13 10h6v2h-6z"/>
+    <path fill="#bd674b" d="M12 6h4v2h-4zM14 8h2v2h-2z"/>
+  </g>
+  <g class="f f2">
+    <path fill="#d77757" d="M0 0h12v2h-12zM0 2h2v2h-2zM4 2h6v2h-6zM0 4h16v2h-16zM0 6h12v2h-12zM0 8h2v2h-2zM6 8h2v2h-2zM10 8h2v2h-2zM0 10h1v2h-1zM6 10h1v2h-1zM10 10h1v2h-1z"/>
+    <path fill="#000" d="M2 2h2v2h-2zM10 2h2v2h-2z"/>
+    <path fill="#898989" d="M21 4h1v2h-1zM20 6h1v2h-1zM19 8h1v2h-1zM13 10h6v2h-6z"/>
+  </g>
+</svg>
